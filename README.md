@@ -11,6 +11,7 @@ Vários protótipos foram testados até que se conseguisse chegar em sua versão
 ### Importante: esse projeto não é regulado pela ANVISA, devido a quantidade de elementos na regulamentação exigidas para esse tipo de equipamento, que acabariam elevando muito o custo de fabricação do projeto. Use por sua conta em risco.
 
 
+
 ## Termos de Uso e Responsabilidade
 
 ### O que estes termos cobrem?
@@ -30,7 +31,7 @@ homologado por nenhum órgão de controle. Da mesma forma, declara estar ciente 
 nunca foi testado em pacientes e somente poderá ser utilizado após as devidas autorizações
 dos órgãos competentes. Corra atrás dessas autorizações, simples assim!
 Você, ou sua empresa, podem produzi-lo! Podem auferir lucros! Mas se compromete a seguir
-todas as leis vigentes do seu país e as normas regulatórias infralegais, como decretos e
+todas as leis vigentes do seu país ou região, e as normas regulatórias infralegais, como decretos e
 resoluções.
 
 Você não pode e não vai, em hipótese nenhuma, explorar as pessoas ou o Poder Público
