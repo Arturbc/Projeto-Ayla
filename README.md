@@ -31,8 +31,8 @@ homologado por nenhum órgão de controle. Da mesma forma, declara estar ciente 
 nunca foi testado em pacientes e somente poderá ser utilizado após as devidas autorizações
 dos órgãos competentes. Corra atrás dessas autorizações, simples assim!
 Você, ou sua empresa, podem produzi-lo! Podem auferir lucros! Mas se compromete a seguir
-todas as leis vigentes do seu país ou região, e as normas regulatórias infralegais, como decretos e
-resoluções.
+todas as leis vigentes do seu país ou região, assim como as normas regulatórias infralegais, 
+como decretos e resoluções.
 
 Você não pode e não vai, em hipótese nenhuma, explorar as pessoas ou o Poder Público
 (porque pagamos impostos, e são muitos!) com valores abusivos.
